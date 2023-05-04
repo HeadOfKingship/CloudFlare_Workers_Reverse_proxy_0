@@ -1,5 +1,5 @@
 # CloudFlare_Workers_Reverse_proxy_0
-CloudFlare_Workers_Reverse_proxy 利用CloudFlare Workers对网站就行反代
+CloudFlare_Workers_Reverse_proxy 利用CloudFlare Workers对网站进行反代
 当然也可以不部署在CloudFlare Workers上,部署的平台支持Groovy即可
 
 
