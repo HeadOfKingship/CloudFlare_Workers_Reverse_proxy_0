@@ -5,7 +5,7 @@ const upstream = 'www.github.com'
 const upstream_mobile = 'www.github.com'
  
 // 将['T1']修改为你希望禁止哪些国家/地区访问(这里的T1指Tor浏览器,你可以修改为如US,RU,CN等)
-const blocked_region = ['T1,US']
+const blocked_region = ['T1']
  
 // 禁止自访问
 const blocked_ip_address = ['0.0.0.0', '127.0.0.1']
