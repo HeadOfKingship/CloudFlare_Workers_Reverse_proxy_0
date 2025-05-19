@@ -1,4 +1,5 @@
 //将"tv.youtube.com"替换成你像反代的网站
+//Replace "tv.youtube.com" with your anti-proxy website
 const upstream = 'tv.youtube.com'
  
 // 反代网站的目录，比如你想反向代理某个网站的二级目录则填写二级目录的目录名，google 用不到，默认即可.
