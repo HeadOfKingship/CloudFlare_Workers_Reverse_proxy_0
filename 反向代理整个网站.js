@@ -1,4 +1,5 @@
 //将"www.google.com"替换成你像反代的网站
+//Replace "www.google.com" with your anti-proxy website
 const upstream = 'www.google.com'
  
 // 若该站点有专门的移动适配站点，替换这里的'www.google.com'，如果没有则保持和上面一致
