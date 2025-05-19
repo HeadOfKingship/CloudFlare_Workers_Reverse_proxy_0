@@ -183,3 +183,4 @@ async function device_status (user_agent_info) {
     }
     return flag;
 }
+#
