@@ -36,7 +36,6 @@ async function fetchAndApply(request) {
     const user_agent = request.headers.get('user-agent');
  
     let response = null;
-    let url = new URL(request.url);
     let url_host = url.host;
  
     if (url.protocol == 'http:') {
